@@ -10,7 +10,7 @@ My current main project is Violet: an interpreted (soon compiled), statically ty
 
 If you ever need to contact me, you can find me through any of these:
 
-|Discord|Xua#7226 (recommended)|
+|Discord|Maya#0006 (recommended)|
 |:-:|:-:|
 |GitHub|You are here!|
 |Twitter|[@maya_kemp5](https://twitter.com/maya_kemp5) (not recommended, I rarely use Twitter!)|
