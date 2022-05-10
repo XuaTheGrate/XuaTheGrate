@@ -8,7 +8,7 @@ I'm doing my best to delve into lower languages such as C++ and Rust, so be pati
 
 If you ever need to contact me, you can find me through any of these:
 
-|Discord|Maya#0006 (recommended)|
+|Discord|Maya#2016 (Join [the official discord.py server](https://discord.gg/dpy) and ping me)|
 |:-:|:-:|
 |GitHub|You are here!|
 |Twitter|[@maya_kemp5](https://twitter.com/maya_kemp5) (not recommended, I rarely use Twitter!)|
