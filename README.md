@@ -11,4 +11,4 @@ If you ever need to contact me, you can find me through any of these:
 |Discord|SerenaTY#0007 (Join [the official discord.py server](https://discord.gg/dpy) and ping me)|
 |:-:|:-:|
 |GitHub|You are here!|
-|Twitter|[@serenaty_](https://twitter.com/maya_kemp5) (not recommended, I rarely use Twitter!)|
+|Twitter|[@serenaty_](https://twitter.com/7SerenaTY) (not recommended, I rarely use Twitter!)|
