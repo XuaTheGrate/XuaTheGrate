@@ -11,4 +11,3 @@ If you ever need to contact me, you can find me through any of these:
 |Discord|@mayaxtg
 |:-:|:-:|
 |GitHub|You are here!|
-|Twitter|[@7SerenaTY](https://twitter.com/7SerenaTY) (not recommended, I rarely use Twitter!)|
